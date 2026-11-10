@@ -84,9 +84,17 @@ Ce projet est réalisé dans le cadre d'une démarche personnelle de perfectionn
 
 **L'objectif : apprendre en pratiquant, progresser régulièrement et transformer les données en informations utiles à la décision.**
 
-## Auteure
+## 👤 À propos de l'Auteure
 
-LinkedIn: Audrey DJOMI
+Nom: Audrey DJOMI
+
+Projet réalisé dans le cadre de ma reconversion professionnelle en Analyse de Données.
+Je suis en recherche active d'une première expérience auprès d'une équipe.
+Merci
+
+LinkedIn : Audrey DJOMI
+
+GitHub : @Audrey-Djomi
 
 🚧 Etat du projet
 
