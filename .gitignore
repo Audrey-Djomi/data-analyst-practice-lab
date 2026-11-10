@@ -1,0 +1,41 @@
+
+# Environnement virtuel Python
+.venv/
+venv/
+env/
+
+# Fichiers Python temporaires
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuration et secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Bases de données locales générées
+*.sqlite
+*.sqlite3
+*.db
+
+# Fichiers temporaires et logs
+*.log
+*.tmp
+
+# Fichiers système Windows
+Thumbs.db
+Desktop.ini
+
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers de configuration des éditeurs
+.vscode/
+.idea/
+
+# Résultats et exports temporaires
+exports/
